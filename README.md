@@ -6,8 +6,8 @@
   Steps:  
     1. Go to https://www.softtour.by/round-selection  
     2. Click "Подобрать" button. 
-    3. Select "Дата" in "Сортировать по" field. 
-    4. In "А-я" toggle arrow down. 
+    3. Select "Дата" in "Сортировать по" field.<br> 
+    4. In "А-я" toggle arrow down.<br> 
   Expected Result:  
     List of hotels sorted by date from early to late. 
     
